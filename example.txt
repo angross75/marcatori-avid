@@ -1,0 +1,3 @@
+10'	Inizio scena
+3:25	Cambio luce
+75	Errore attore
